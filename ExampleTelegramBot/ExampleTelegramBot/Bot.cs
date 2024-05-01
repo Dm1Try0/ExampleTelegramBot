@@ -12,6 +12,7 @@ namespace ExampleTelegramBot
         private CommandHandler _handler;
         public Bot(string token)
         {
+            _handler = new CommandHandler();
             _bot = new TelegramBotClient(token);
         }
         public async Task HandleErrorAsync(ITelegramBotClient botClient, Exception exception, CancellationToken cancellationToken)

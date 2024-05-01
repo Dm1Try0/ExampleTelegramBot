@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\drago\\Documents\\GitHub\\ExampleTelegramBot\\ExampleTelegramBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E08EE8B4-63AF-4710-BF7F-95450168E1DA}|ExampleTelegramBot\\ExampleTelegramBot.csproj|c:\\users\\drago\\documents\\github\\exampletelegrambot\\exampletelegrambot\\exampletelegrambot\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E08EE8B4-63AF-4710-BF7F-95450168E1DA}|ExampleTelegramBot\\ExampleTelegramBot.csproj|solutionrelative:exampletelegrambot\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E08EE8B4-63AF-4710-BF7F-95450168E1DA}|ExampleTelegramBot\\ExampleTelegramBot.csproj|c:\\users\\drago\\documents\\github\\exampletelegrambot\\exampletelegrambot\\exampletelegrambot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E08EE8B4-63AF-4710-BF7F-95450168E1DA}|ExampleTelegramBot\\ExampleTelegramBot.csproj|solutionrelative:exampletelegrambot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08EE8B4-63AF-4710-BF7F-95450168E1DA}|ExampleTelegramBot\\ExampleTelegramBot.csproj|c:\\users\\drago\\documents\\github\\exampletelegrambot\\exampletelegrambot\\exampletelegrambot\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08EE8B4-63AF-4710-BF7F-95450168E1DA}|ExampleTelegramBot\\ExampleTelegramBot.csproj|solutionrelative:exampletelegrambot\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E08EE8B4-63AF-4710-BF7F-95450168E1DA}|ExampleTelegramBot\\ExampleTelegramBot.csproj|c:\\users\\drago\\documents\\github\\exampletelegrambot\\exampletelegrambot\\exampletelegrambot\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\GitHub\\ExampleTelegramBot\\ExampleTelegramBot\\ExampleTelegramBot\\CommandHandler.cs",
               "RelativeDocumentMoniker": "ExampleTelegramBot\\CommandHandler.cs",
               "ToolTip": "C:\\Users\\drago\\Documents\\GitHub\\ExampleTelegramBot\\ExampleTelegramBot\\ExampleTelegramBot\\CommandHandler.cs",
               "RelativeToolTip": "ExampleTelegramBot\\CommandHandler.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T15:34:51.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Bot.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\GitHub\\ExampleTelegramBot\\ExampleTelegramBot\\ExampleTelegramBot\\Bot.cs",
               "RelativeDocumentMoniker": "ExampleTelegramBot\\Bot.cs",
               "ToolTip": "C:\\Users\\drago\\Documents\\GitHub\\ExampleTelegramBot\\ExampleTelegramBot\\ExampleTelegramBot\\Bot.cs",
               "RelativeToolTip": "ExampleTelegramBot\\Bot.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowAwAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T15:32:29.167Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "ExampleTelegramBot\\Models\\UserData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:32:05.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T15:32:05.202Z"
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "ExampleTelegramBot\\Models\\Settings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:31:51.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T15:31:51.687Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "ExampleTelegramBot\\DataBaseContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:31:00.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T15:31:00.954Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "ExampleTelegramBot\\FilesManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:30:35.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T15:30:35.22Z"
             },
             {
               "$type": "Document",
@@ -128,8 +124,7 @@
               "RelativeToolTip": "ExampleTelegramBot\\Program.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAgwAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:23:40.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T15:23:40.895Z"
             }
           ]
         }
